@@ -161,15 +161,3 @@ Contributions are welcome! Please follow these steps:
 4. Push your branch to your forked repository.
 5. Submit a pull request.
 
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Contact
-For questions or feedback, please contact `your_email@example.com`.
-```
-
-Let me know if you'd like any further edits!
