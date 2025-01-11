@@ -1,0 +1,33 @@
+# Ignore all wallet files
+*wallet.json
+
+# Ignore Cargo build artifacts
+/target/
+
+# Ignore Cargo lock file
+Cargo.lock
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+
+# Ignore environment files
+.env
+
+# Ignore debug and release builds
+**/debug/
+**/release/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Rust cache files
+/.cargo/
+/.rustup/
+
+# Ignore any local configuration files
+*.local
